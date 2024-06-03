@@ -22,7 +22,6 @@ prefixes:
   rdfs: http://www.w3.org/2000/01/rdf-schema#
   void: http://rdfs.org/ns/void#
   xsd: http://www.w3.org/2001/XMLSchema#
-  oboInOwl: http://www.geneontology.org/formats/oboInOwl#
   shex: http://www.w3.org/ns/shex#
   schema: http://schema.org/
 default_prefix: this
